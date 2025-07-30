@@ -58,17 +58,10 @@ Contributions are welcome! To contribute:
 3. Commit your changes.
 4. Open a pull request.
 
-Please follow the [Holberton School style guidelines](https://github.com/holbertonschool/Betty/wiki) where applicable.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+The Holberton betty and doc style were used: [Holberton School style guidelines](https://github.com/holbertonschool/Betty/wiki).
 
 ## Contact
-
-For questions, feedback, or collaboration, reach out via:
 
 - GitHub Issues on this repo
 - [Kandrianaha on GitHub](https://github.com/Kandrianaha)
 
-Happy coding!
